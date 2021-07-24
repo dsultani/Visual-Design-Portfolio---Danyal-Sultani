@@ -169,7 +169,13 @@ a:hover {
   color: black;
   padding-left: 135px;
 }
-
+.credit-area {
+  background-color: #e0e0e0;
+  color: #547794;
+  padding-left: 250px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 .tablet {
   width: auto;
   justify-content: space-between;
